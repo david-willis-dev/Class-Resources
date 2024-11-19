@@ -31,13 +31,13 @@ print("Hello World!")
 #Divide the numbers and print the solution
 
 #Code:
-# print("Enter first number: ")
-# num1 = int(input())
-# print("Enter second number: ")
-# num2 = int(input())
-# print("Adding numbers…")
-# result = num1 + num2
-# print(result)
+#print("Enter first number: ")
+#num1 = int(input())
+#print("Enter second number: ")
+#num2 = int(input())
+#print("Adding numbers…")
+#result = num1 + num2
+#print(result)
 
 
 
