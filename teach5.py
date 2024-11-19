@@ -45,14 +45,14 @@ print("Hello World!")
 #------------------PROGRAM 4--------------------
 #Can you modify the program to also allow multiplication and division?
 
-# Code:
-# num1 = int(input("Enter the first number: "))
-# num2 = int(input("Enter the second number: "))
-# operator = input("Enter the operation (+, -): ")
-# if operator == "+":
-#     print(num1 + num2)
-# elif operator == "-":
-#     print(num1 - num2)
+#Code:
+#num1 = int(input("Enter the first number: "))
+#num2 = int(input("Enter the second number: "))
+#operator = input("Enter the operation (+, -): ")
+#if operator == "+":
+#    print(num1 + num2)
+#elif operator == "-":
+#    print(num1 - num2)
 
 
 
